@@ -4,7 +4,7 @@
 
 ## 配置
 
-1. 把`payne.jar`放在`jetbra/plugins-jetbrains`插件目录
+1. 把`payne-ob.jar`放在`jetbra/plugins-jetbrains`插件目录
 2. 修改`vmoptions.txt`中的路径，`-javaagent:/path/ja-netfilter.jar=jetbrains` path改为你实际路径地址。替换`/Applications/Studio 3T.app/Contents` 目录中得`vmoptions.txt`
 3. 启动`Studio 3T`输入任意信息激活
 
